@@ -1,0 +1,235 @@
+no,admin1_bps_code,admin1_bps,status,date,title,source,type_source
+1,11,ACEH,tutup,15 Maret 2020,Surat Edaran Gubernur Aceh Tentang Pelaksanaan Kegiatan Belajar Mengajar di Rumah,https://bpba.acehprov.go.id/index.php/informasi/read/2020/03/17/213/surat-edaran-gubernur-aceh-tentang-pelaksanaan-kegiatan-belajar-mengajar-di-rumah.html,regulation
+2,11,ACEH,tutup,15 Maret 2020,Aceh Barat liburkan aktivitas sekolah cegah COVID-19,https://aceh.antaranews.com/berita/127218/aceh-barat-liburkan-aktivitas-sekolah-cegah-covid-19,regulation
+3,11,ACEH,tutup,16 Maret 2020,"Aceh, Jambi, NTB Liburkan Sekolah Dua Pekan Cegah Corona",https://www.cnnindonesia.com/nasional/20200316092721-20-483715/aceh-jambi-ntb-liburkan-sekolah-dua-pekan-cegah-corona,news
+4,11,ACEH,buka,13 Juli 2020,413 SMA di Aceh Mulai Belajar Tatap Muka,https://www.medcom.id/pendidikan/news-pendidikan/Wb70PXnk-413-sma-di-aceh-mulai-belajar-tatap-muka,news
+5,11,ACEH,buka,13 Juli 2020,"Masuk Zona Hijau Covid-19, 104 Daerah Mulai Sekolah Tatap Muka",https://indonesiabaik.id/index.php/infografis/masuk-zona-hijau-covid-19-104-daerah-mulai-sekolah-tatap-muka,news
+6,11,ACEH,buka,20 Juli 2020,Hari Ini SMP dan SMA Sederajat di Aceh Barat Mulai Belajar Tatap Muka,https://rri.co.id/meulaboh/pendidikan-dan-teknologi/870718/hari-ini-smp-dan-sma-sederajat-di-aceh-barat-mulai-belajar-tatap-muka,news
+7,11,ACEH,tutup,25 Agustus 2020,"Kasus Corona Bertambah, Sekolah Tatap Muka di Aceh Disetop",https://www.cnnindonesia.com/nasional/20200825160017-20-539119/kasus-corona-bertambah-sekolah-tatap-muka-di-aceh-disetop,news
+8,11,ACEH,buka,23 September 2020,Potret Siswa SD di Aceh Besar Kembali Belajar Tatap Muka Meski Pandemi,https://kumparan.com/acehkini/potret-siswa-sd-di-aceh-besar-kembali-belajar-tatap-muka-meski-pandemi-1uFwsQ41JWI,news
+9,11,ACEH,buka,9 November 2020,"Mulai Hari Ini, Para Siswa Di Aceh Tengah Kembali Belajar Dengan Sistem Tatap Muka",http://acehtengahkab.go.id/berita/kategori/pendidikan/mulai-hari-ini-para-siswa-di-aceh-tengah-kembali-belajar-dengan-sistem-tatap-muka,news
+10,11,ACEH,buka,4 Januari 2021,"Sekolah di Banda Aceh Gelar Belajar Tatap Muka, Segini Jumlah Siswa Yang Belajar",https://www.infobandaaceh.com/2021/01/sekolah-di-banda-aceh-gelar-belajar.html,news
+11,11,ACEH,tutup,27 Mei 2021,"Kasus Covid 19 Meningkat di Banda Aceh, Sekolah Kembali Belajar Daring",https://www.kompas.tv/article/178316/kasus-covid-19-meningkat-di-banda-aceh-sekolah-kembali-belajar-daring,news
+12,11,ACEH,tutup,27 Mei 2021,"Kasus Covid-19 Meningkat, 103 Sekolah Di Banda Aceh dan Aceh Besar Ditutup",https://nusantara.rmol.id/read/2021/05/26/489386/kasus-covid-19-meningkat-103-sekolah-di-banda-aceh-dan-aceh-besar-ditutup,news
+13,11,ACEH,tutup,11 Juni 2021,"Banda Aceh Zona Merah, Sekolah Tatap Muka Disetop Sementara",https://news.detik.com/berita/d-5602194/banda-aceh-zona-merah-sekolah-tatap-muka-disetop-sementara,news
+14,11,ACEH,buka,30 Juli 2021,Sekolah di Banda Aceh Gelar Pembelajaran Tatap Muka,https://aceh.inews.id/berita/sekolah-di-banda-aceh-gelar-pembelajaran-tatap-muka,news
+15,11,ACEH,tutup,20 Agustus 2021,"Zona Merah Covid-19, Sekolah di Aceh Besar Diliburkan",https://aceh.tribunnews.com/2021/08/19/zona-merah-covid-19-sekolah-di-aceh-besar-diliburkan,news
+16,11,ACEH,buka,23 September 2021,Hari Ini Sekolah di Banda Aceh Mulai Pembelajaran Tatap Muka,https://www.tribunnews.com/regional/2021/09/23/hari-ini-sekolah-di-banda-aceh-memulai-pembelajaran-tatap-muka,news
+17,11,ACEH,buka,5 Januari 2022,Aminullah Tinjau Sekolah Tatap Muka Hari Pertama,https://perkim.bandaacehkota.go.id/2021/01/05/aminullah-tinjau-sekolah-tatap-muka-hari-pertama/,news
+18,11,ACEH,buka,10 Januari 2022,Seluruh Sekolah di Aceh Singkil Kembali Belajar Secara Normal,https://www.acehtrend.com/news/seluruh-sekolah-di-aceh-singkil-kembali-belajar-secara-normal/index.html,news
+19,51,BALI,tutup,15 Maret 2020,"Surat Edaran Sekretaris Daerah Provinsi Bali Nomor 09/SATGAS COVID19/III/2020 Tahun 2020
+Pelaksanaan Pembelajaran Di Rumah",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_sekretaris_daerah_provinsi_bali_nomor_09_satgas_covid19_iii_2020_tahun_2020-2.pdf,regulation
+20,51,BALI,tutup,30 Maret 2020,"Surat Edaran Sekretaris Daerah Provinsi Bali Nomor 60/SATGAS COVID19/III/2020 Tahun 2020
+Perpanjangan Pelaksanaan Pembelajaran Di Rumah",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_sekretaris_daerah_provinsi_bali_nomor_60_satgas_covid19_iii_2020_tahun_2020-3.pdf,regulation
+21,51,BALI,buka,14 September 2021,"Surat Edaran Gubernur Bali B.31.420/76560/DIKPORA
+Pelaksanaan Pembelajaran Pada Masa Pandemi Covid-19 Di Provinsi Bali",https://jdih.baliprov.go.id/produk-hukum/peraturan-perundang-undangan/surat-edaran-gubernur-bali/28770,regulation
+22,51,BALI,buka,15 September 2021,"Sekolah di Bali Dibolehkan Gelar PTM, Siswa Diberi Opsi Belajar Daring",https://www.merdeka.com/peristiwa/sekolah-di-bali-dibolehkan-gelar-ptm-siswa-diberi-opsi-belajar-daring.html,news
+23,51,BALI,buka,21 September 2021,Bali Mulai Berlakukan Sekolah Tatap Muka Terbatas,https://mediaindonesia.com/nusantara/434392/bali-mulai-berlakukan-sekolah-tatap-muka-terbatas,news
+24,51,BALI,buka,7 Januari 2022,Pembelajaran Tatap Muka Terbatas di Bali Mulai Digelar,https://www.merdeka.com/peristiwa/pembelajaran-tatap-muka-terbatas-di-bali-mulai-digelar.html,news
+25,51,BALI,tutup,4 Februari 2022,"Kasus Covid-19 Melonjak Pesat, Bali Hentikan Seluruh PTM",https://www.idxchannel.com/economics/kasus-covid-19-melonjak-pesat-bali-hentikan-seluruh-ptm,news
+26,51,BALI,tutup,7 Februari 2022,"Kasus COVID-19 Bali Tembus 9.887, Koster Berhentikan PTM",https://news.detik.com/berita/d-5931476/kasus-covid-19-bali-tembus-9887-koster-berhentikan-ptmm,news
+27,51,BALI,buka,1 April 2022,"PTM 100% di Bali Kembali Dibuka, Sebagian Besar Sekolah Masih Tetap Belajar Daring",https://baliportalnews.com/2022/03/kota-denpasar-siap-laksanakan-ptm-per-1-april-2022/,news
+28,51,BALI,buka,4 April 2022,In Picture: Bali Kembali Terapkan Pembelajaran Tatap Muka,https://www.republika.co.id/berita/r9tl42314/bali-kembali-terapkan-pembelajaran-tatap-muka,news
+29,36,BANTEN,tutup,15 Maret 2020,"Banten Tetapkan KLB Virus Corona, Sekolah Diliburkan",https://nasional.tempo.co/read/1319654/banten-tetapkan-klb-virus-corona-sekolah-diliburkan,news
+30,36,BANTEN,buka,1 September 2021,Sekolah Tatap Muka di Banten Mulai 1 September 2021,https://www.infoindonesia.id/read/2021/08/30/6877/sekolah-tatap-muka-di-banten-mulai-1-september-2021,news
+31,36,BANTEN,buka,7 September 2021,"Mulai PTM 50%, Gubernur Banten Tinjau Sekolah",https://www.jurnaljabar.id/bewara/mulai-ptm-50-gubernur-banten-tinjau-sekolah-b2cAv9cSx,news
+32,36,BANTEN,tutup,4 Oktober 2021,Gubernur Banten Tutup Sementara Sekolah di Kota Tangerang karena Siswa Positif Covid-19 ,https://banten.tribunnews.com/2021/10/05/gubernur-banten-tutup-sementara-sekolah-di-kota-tangerang-karena-siswa-positif-covid-19,news
+33,36,BANTEN,tutup,25 Januari 2022,Pemerintah Kota Tangerang Hentikan Sementara Pembelajaran Tatap Muka,https://www.tvonenews.com/daerah/banten/24467-pemerintah-kota-tangerang-hentikan-sementara-pembelajaran-tatap-muka,news
+34,36,BANTEN,tutup,25 Januari 2022,"Kasus Positif COVID-19 di Kota Tangerang Meningkat, PJJ Kembali Diterapkan",https://www.tangerangkota.go.id/berita/detail/29643/kasus-positif-covid-19-di-kota-tangerang-meningkat-pjj-kembali-diterapkan,news
+35,36,BANTEN,tutup,2 Februari 2022,"Kasus Covid-19 Melonjak, Pembelajaran Tatap Muka SMA & SMK di Tangerang Raya Disetop",https://regional.kontan.co.id/news/kasus-covid-19-melonjak-pembelajaran-tatap-muka-sma-smk-di-tangerang-raya-disetop,news
+36,36,BANTEN,tutup,2 Februari 2022,Gubernur Banten: Tangerang Raya Setop PTM 100 Persen,https://www.cnnindonesia.com/nasional/20220202154342-20-754136/gubernur-banten-tangerang-raya-setop-ptm-100-persen,news
+37,36,BANTEN,buka,8 Maret 2022,"Kasus COVID-19 Melandai, SD-SMA di Banten Bisa PTM 50%",https://news.detik.com/berita/d-5973827/kasus-covid-19-melandai-sd-sma-di-banten-bisa-ptm-50,news
+38,36,BANTEN,buka,9 Maret 2022,Pemprov Banten Izinkan SMA di Tangerang Raya Gelar PTM Terbatas,https://www.beritasatu.com/megapolitan/900413/pemprov-banten-izinkan-sma-di-tangerang-raya-gelar-ptm-terbatas,
+39,36,BANTEN,buka,7 April 2022,"Surat Edaran Kepala Dinas Pendidikan Dan Kebudayaan Provinsi Banten Nomor 421/0764-Dindikbud/ 2022
+Mulai 7 April 2022, SMA, SMK Dan SKH Negeri Dan Swasta Di Banten Terapkan PTM 100 Persen","https://dindikbud.bantenprov.go.id/index.php/artikel/343-mulai-7-april-2022,-sma,-smk-dan-skh-negeri-dan-swasta-di-banten-terapkan-ptm-100-persen.html",regulation
+40,17,BENGKULU,tutup,16 Maret 2020,"Antisipasi Corona, Pemkab Bengkulu Selatan Liburkan Sekolah",https://covid19.bengkuluselatankab.go.id/antisipasi-corona-pemkab-bengkulu-selatan-liburkan-sekolah/,news
+41,17,BENGKULU,buka,15 Februari 2021,"Gubernur Bengkulu Keluarkan Surat Edaran, Sekolah Tatap Muka Dimulai Pekan Depan",https://www.jpnn.com/news/gubernur-bengkulu-keluarkan-surat-edaran-sekolah-tatap-muka-dimulai-pekan-depa,news
+42,17,BENGKULU,buka,16 Agustus 2021,Kegiatan Tatap Muka Mulai di Terapkan 50%,https://disdik.bengkulukota.go.id/kegiatan-tatap-muka-mulai-di-terapkan-50/,news
+43,17,BENGKULU,buka,26 Agustus 2021,"Senin, Bengkulu Utara Mulai Gelar KBM Tatap Muka",https://rubriknews.com/senin-bengkulu-utara-mulai-gelar-kbm-tatap-muka/,news
+44,17,BENGKULU,buka,4 April 2022,"Dinas Dikbud Provinsi Bengkulu : Selama Bulan Ramadhan, PTM Dilakukan Selama 6 Jam Perhari",https://www.referensipublik.com/dinas-dikbud-provinsi-bengkulu-selama-bulan-ramadhan-ptm-dilakukan-selama-6-jam-perhari,news
+45,34,DI YOGYAKARTA,tutup,20 Maret 2020,"Surat Edaran Dinas Pendidikan Kabupaten Sleman Nomor 421/407 Tahun 2020
+Pelaksanaan Belajar Di Rumah Dalam Rangka Antisipasi Penyebaran Covid-19",https://covid19.hukumonline.com/wp-content/uploads/2020/09/surat_edaran_dinas_pendidikan_kabupaten_sleman_nomor_421_407_tahun_2020.pdf,regulation
+46,34,DI YOGYAKARTA,tutup,20 Maret 2020,"Surat Edaran Dinas Pendidikan Kabupaten Sleman Nomor 421/407 Tahun 2020
+Pelaksanaan Belajar Di Rumah Dalam Rangka Antisipasi Penyebaran Covid-19",https://covid19.hukumonline.com/wp-content/uploads/2020/09/surat_edaran_dinas_pendidikan_kabupaten_sleman_nomor_421_407_tahun_2020.pdf,regulation
+47,34,DI YOGYAKARTA,tutup,23 Maret 2020,Yogyakarta Tutup Sekolah untuk Cegah Corona Mulai 23 Maret,https://kumparan.com/kumparannews/yogyakarta-tutup-sekolah-untuk-cegah-corona-mulai-23-maret-1t3XvMgVGtG,news
+48,34,DI YOGYAKARTA,tutup,30 Maret 2020,"Surat Edaran Gubernur Daerah Istimewa Yogyakarta Nomor 421/5598 Tahun 2020
+Perpanjangan Masa Pembelajaran Jarak Jauh/Online Bagi Peserta Didik Dalam Masa Darurat Penyebaran...",https://covid19.hukumonline.com/wp-content/uploads/2020/05/surat_edaran_gubernur_daerah_istimewa_yogyakarta_nomor_421_5598_tahun_2020.pdf,regulation
+49,34,DI YOGYAKARTA,tutup,31 Maret 2020,"Surat Edaran Dinas Pendidikan Kabupaten Sleman Nomor 421/1458 Tahun 2020
+Perpanjangan Masa Pembelajaran Jarak Jauh Bagi Peserta Didik Dalam Masa Darurat Penyeberan...",https://covid19.hukumonline.com/wp-content/uploads/2020/09/surat_edaran_dinas_pendidikan_kabupaten_sleman_nomor_421_1458_tahun_2020.pdf,regulation
+50,34,DI YOGYAKARTA,tutup,31 Maret 2020,"Surat Edaran Bupati Bantul Nomor 423/01608 Tahun 2020
+Perpanjangan Masa Pembelajaran Jarak Jauh Dan/Atau Online Bagi Peserta Didik Pada Masa...",https://covid19.hukumonline.com/wp-content/uploads/2021/05/surat_edaran_bupati_bantul_nomor_423_01608_tahun_2020.pdf,regulation
+51,34,DI YOGYAKARTA,tutup,1 April 2020,"Surat Edaran Dinas Pendidikan Kabupaten Sleman Nomor 421/1469 Tahun 2020
+Pelaksanaan Kebijakan Pendidikan Dalam Rangka Antisipasi Penyebaran Covid-19",https://covid19.hukumonline.com/wp-content/uploads/2020/09/surat_edaran_dinas_pendidikan_kabupaten_sleman_nomor_421_1469_tahun_2020.pdf,regulation
+52,34,DI YOGYAKARTA,tutup,23 April 2020,"Surat Edaran Dinas Pendidikan Kabupaten Sleman Nomor 421/1581 Tahun 2020
+Perpanjangan Masa Pembelajaran Jarak Jauh Tahap Iii Bagi Peserta Didik Dalam Masa...",https://covid19.hukumonline.com/wp-content/uploads/2020/09/surat_edaran_dinas_pendidikan_kabupaten_sleman_nomor_421_1581_tahun_2020.pdf,regulation
+53,34,DI YOGYAKARTA,tutup,23 April 2020,"Surat Edaran Dinas Pendidikan, Pemuda, Dan Olahraga Pemerintah Daerah Daerah Istimewa Yogyakarta Nomor 421/03143 Tahun 2020
+Penambahan Waktu Masa Pembelajaran Jarak Jauh/Online Dalam Masa Tanggap Darurat Bencana Corona...",https://covid19.hukumonline.com/wp-content/uploads/2020/05/surat_edaran_dinas_pendidikan_pemuda_dan_olahraga_pemerintah_daerah_daerah_istimewa_yogyakarta_nomor_421_03143_tahun_2020.pdf,regulation
+54,34,DI YOGYAKARTA,tutup,29 Mei 2020,"Surat Edaran Dinas Pendidikan Kabupaten Sleman Nomor 421/1795 Tahun 2020
+Pengaturan Pembelajaran Dalam Perpanjangan Masa Tanggap Darurat Penyebaran Corona Virus Disease (Covid-19)...",https://covid19.hukumonline.com/wp-content/uploads/2020/09/surat_edaran_dinas_pendidikan_kabupaten_sleman_nomor_421_1795_tahun_2020.pdf,regulation
+55,34,DI YOGYAKARTA,tutup,8 Juli 2020,"Surat Edaran Wali Kota Yogyakarta Nomor 420/8550/SE/2020 Tahun 2020
+Kebijakan Pendidikan Tahun Ajaran Baru 2020/2021 Di Tengah Pandemi Corona Virus Disease...",https://covid19.hukumonline.com/wp-content/uploads/2021/11/surat_edaran_wali_kota_yogyakarta_nomor_420_8550_se_2020_tahun_2020.pdf,regulation
+56,34,DI YOGYAKARTA,tutup,8 September 2020,"Surat Edaran Wali Kota Yogyakarta Nomor 420/13977/SE/2020 Tahun 2020
+Kebijakan Pendidikan Masa Transisi Adaptasi Kebiasaan Baru Di Tengah Pandemi Corona Virus...",https://covid19.hukumonline.com/wp-content/uploads/2021/11/surat_edaran_wali_kota_yogyakarta_nomor_420_13977_se_2020_tahun_2020.pdf,regulation
+57,34,DI YOGYAKARTA,buka,20 September 2021,Sejumlah Sekolah di DI Yogyakarta Mulai Gelar Pembelajaran Tatap Muka Hari Ini,https://jogja.tribunnews.com/2021/09/20/sejumlah-sekolah-di-di-yogyakarta-mulai-gelar-pembelajaran-tatap-muka-hari-ini,news
+58,34,DI YOGYAKARTA,buka,2 Februari 2022,"Yogyakarta Ubah Skema PTM: Tetap 100 Persen, Dibagi 2 Sif",https://www.cnnindonesia.com/nasional/20220202145330-20-754109/yogyakarta-ubah-skema-ptm-tetap-100-persen-dibagi-2-sif,news
+59,34,DI YOGYAKARTA,tutup,1 Maret 2022,Jogja Setop PTM Sepenuhnya hingga 7 Maret 2022,https://www.detik.com/jateng/jogja/d-5965156/jogja-setop-ptm-sepenuhnya-hingga-7-maret-2022,news
+60,34,DI YOGYAKARTA,tutup,11 Maret 2022,Sekolah di Kota Yogyakarta Kembali Berlakukan Pembelajaran Daring,https://www.krjogja.com/berita-lokal/diy/yogyakarta/sekolah-di-kota-yogyakarta-kembali-berlakukan-pembelajaran-daring/,news
+61,34,DI YOGYAKARTA,buka,28 Maret 2022,Sekolah di DIY Gelar Pembelajaran Tatap Muka 100 Persen Mulai Pekan Depan,https://jogjapolitan.harianjogja.com/read/2022/03/24/510/1097774/sekolah-di-diy-gelar-pembelajaran-tatap-muka-100-persen-mulai-pekan-depan,news
+62,34,DI YOGYAKARTA,buka,4 April 2022,Sekolah yang Laksanakan PTM 100 Persen di Yogya Baru 82 Persen,https://www.republika.co.id/berita/r9t639380/sekolah-yang-laksanakan-ptm-100-persen-di-yogya-baru-82-persen,news
+63,31,DKI JAKARTA,tutup,13 Maret 2020,"Surat Gubernur DKI Jakarta Nomor 128/-1.772.1 Tahun 2020
+Pemberitahuan Penutupan Sekolah Untuk Pencegahan Penyebaran Kasus Coronavirus Disease (Covid-19)",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_gubernur_dki_jakarta_nomor_128_1_772_1_tahun_2020-1.pdf,regulation
+64,31,DKI JAKARTA,tutup,13 Maret 2020,"Surat Edaran Dinas Pendidikan Provinsi DKI Jakarta Nomor 26/SE/2020 Tahun 2020
+Pembelajaran Dirumah Selama Pelaksanaan Ujian Sekolah Dan/Atau Ujian Nasional",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_dinas_pendidikan_provinsi_dki_jakarta_nomor_26_se_2020_tahun_2020-2.pdf,regulation
+65,31,DKI JAKARTA,tutup,14 Maret 2020,"Pemprov DKI Jakarta menutup sekolah mulai Senin (16/3), ujian ditunda!",https://nasional.kontan.co.id/news/pemprov-dki-jakarta-menutup-sekolah-senin-ujian-sekolah-ditunda,news
+66,31,DKI JAKARTA,tutup,24 Maret 2020,"Surat Edaran Dinas Pendidikan Provinsi DKI Jakarta Nomor 32/SE/2020 Tahun 2020
+Pembelajaran Di Rumah (Home Learning) Pada Masa Darurat Covid-19",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_dinas_pendidikan_provinsi_dki_jakarta_nomor_32_se_2020_tahun_2020-2.pdf,regulation
+67,31,DKI JAKARTA,tutup,23 April 2020,"Surat Edaran Dinas Pendidikan Provinsi DKI Jakarta Nomor 43/SE/2020 Tahun 2020
+Perpanjangan Pembelajaran Jarak Jauh Pasca Masa Pembatasan Sosial Berskala Besar Di Lingkungan...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_dinas_pendidikan_provinsi_dki_jakarta_nomor_43_se_2020_tahun_2020.pdf,regulation
+68,31,DKI JAKARTA,tutup,9 November 2020,"Keputusan Kepala Dinas Pendidikan Provinsi DKI Jakarta Nomor 1130 Tahun 2020
+Protokol Pencegahan Corona Virus Disease 2019 Di Sekolah Dan Institusi Pendidikan Lainnya",https://covid19.hukumonline.com/wp-content/uploads/2020/12/keputusan_kepala_dinas_pendidikan_provinsi_dki_jakarta_nomor_1130_tahun_2020.pdf,regulation
+69,31,DKI JAKARTA,tutup,23 Juni 2021,"Keputusan Kepala Dinas Pendidikan Provinsi DKI Jakarta Nomor 646 Tahun 2021
+Penghentian Sementara Kegiatan Di Satuan Pendidikan Pada Masa Perpanjangan Pemberlakuan Pembatasan Kegiatan...",https://covid19.hukumonline.com/wp-content/uploads/2021/07/keputusan_kepala_dinas_pendidikan_provinsi_dki_jakarta_nomor_646_tahun_2021.pdf,regulation
+70,31,DKI JAKARTA,buka,28 Agustus 2021,Daftar Sekolah Jakarta yang Diizinkan Sekolah Tatap Muka,https://www.cnbcindonesia.com/news/20210828170026-4-271989/daftar-sekolah-jakarta-yang-diizinkan-sekolah-tatap-muka,news
+71,31,DKI JAKARTA,buka,30 Agustus 2021,Ayo kembali ke sekolah,https://jambi.antaranews.com/berita/463882/ayo-kembali-ke-sekolah,news
+72,31,DKI JAKARTA,tutup,13 September 2021,Disdik Undur Buka Sekolah Tatap Muka Setiap Hari,https://news.detik.com/berita/d-5721123/disdik-dki-undur-buka-sekolah-tatap-muka-setiap-hari-ini-alasannya,news
+73,31,DKI JAKARTA,tutup,18 Januari 2022,39 Sekolah di Jakarta Tutup Usai Ditemukan Kasus Corona,https://news.detik.com/berita/d-5903329/39-sekolah-jakarta-tutup-usai-temukan-kasus-corona-ini-3-faktanya,news
+74,31,DKI JAKARTA,tutup,19 Januari 2022,"43 sekolah di Jakarta tutup sementara imbas COVID-19, 28 sudah buka lagi",https://news.detik.com/berita/d-5904980/43-sekolah-di-jakarta-tutup-sementara-imbas-covid-19-28-sudah-buka-lagi,news
+75,31,DKI JAKARTA,tutup,28 Januari 2022,"90 Sekolah di Jakarta Tutup karena Omicron, KSP: Jangan Berlebihan",https://www.republika.co.id/berita/r6eg57428/90-sekolah-di-jakarta-tutup-karena-omicron-ksp-jangan-panik-berlebih,news
+76,31,DKI JAKARTA,tutup,11 Februari 2022,Wagub DKI ungkap 706 Sekolah di Jakarta Tutup Imbas Kasus COVID-19,https://metro.tempo.co/read/1559956/wagub-dki-ungkap-706-sekolah-di-jakarta-tutup-imbas-kasus-covid-19,news
+77,31,DKI JAKARTA,buka,1 April 2022,"Mulai Hari Ini, DKI Jakarta Terapkan Pembelajaran Tatap Muka 100%",https://edukasi.sindonews.com/read/730349/212/mulai-hari-ini-dki-jakarta-terapkan-pembelajaran-tatap-muka-100-1648793083,news
+78,75,GORONTALO,tutup,20 Maret 2020,"Surat Edaran Gubernur Gorontalo Nomor 420/DIKBUDPORA/765/III/SEK/2020 Tahun 2020
+Upaya Pencegahan Penularan Covid-19 Di Satuan Pendidikan",https://covid19.hukumonline.com/wp-content/uploads/2020/06/surat_edaran_gubernur_gorontalo_nomor_420_dikbudpora_765_iii_sek_2020_tahun_2020.pdf,regulation
+79,75,GORONTALO,tutup,23 Maret 2020,Gorontalo Mulai Liburkan Sekolah untuk Cegah Corona Menyebar,https://www.republika.co.id/berita/q7mm34382/gorontalo-mulai-liburkan-sekolah-untuk-cegah-corona-menyebar,news
+80,75,GORONTALO,buka,3 September 2021,SD DAN SMP Di Gorontalo Mulai Sekolah Tatap Muka,https://www.youtube.com/watch?v=I5c49E8KjSc,news
+81,75,GORONTALO,buka,27 September 2021,Kota Gorontalo Mulai PTM DI Sekolah Yang Siap Prokes,youtube.com/watch?v=mCQjUKt0SSM,news
+82,15,JAMBI,tutup,17 Maret 2020,"Aceh, Jambi, NTB Liburkan Sekolah Dua Pekan Cegah Corona",https://www.cnnindonesia.com/nasional/20200316092721-20-483715/aceh-jambi-ntb-liburkan-sekolah-dua-pekan-cegah-corona,news
+83,15,JAMBI,tutup,17 Maret 2020,Pemkot Jambi Liburkan Sekolah Mulai Besok,https://metrojambi.com/read/2022/05/25/51774/pemkot-jambi-liburkan-sekolah-mulai-besok,news
+84,15,JAMBI,buka,13 Juli 2020,"Kasus Covid-19 Turun, Sekolah di Jambi Diizinkan Belajar Tatap Muka",https://www.liputan6.com/regional/read/4303893/kasus-covid-19-turun-sekolah-di-jambi-diizinkan-belajar-tatap-muka,news
+85,15,JAMBI,buka,13 Juli 2020,"Kota Jambi Zona Kuning Corona, Sebagian Siswa Mulai Belajar di Sekolah",https://news.detik.com/berita/d-5091335/kota-jambi-zona-kuning-corona-sebagian-siswa-mulai-belajar-di-sekolah,news
+86,15,JAMBI,tutup,18 Januari 2021,Sekolah Tatap Muka di Kota Jambi Dibatalkan,https://www.beritasatu.com/archive/720981/sekolah-tatap-muka-di-kota-jambi-dibatalkan,news
+87,15,JAMBI,buka,16 Februari 2021,"SURAT EDARAN DISDIK, DAFTAR SEKOLAH YANG MELAKUKAN BELAJAR TATAP MUKA COVID 19",https://www.sman1muarojambi.sch.id/read/40/surat-edaran-disdik-daftar-sekolah-yang-melakukan-belajar-tatap-muka-covid-19,news
+88,15,JAMBI,buka,16 Februari 2021,"Kabar Gembira, Pembelajaran Tatap Muka di SMA Resmi Dibuka",http://sman11sarolangunjbi.sch.id/home/read/18/kabar-gembira-pembelajaran-tatap-muka-di-sma-resmi-dibuka,news
+89,15,JAMBI,buka,17 Februari 2021,Pembukaan Pembelajaran Tatap Muka 341 Sekolah SMA/SMK/SLB Provinsi Jambi,https://sman12mrg.sch.id/read/87/pembukaan-pembelajaran-tatap-muka-341-sekolah-smasmkslb-provinsi-jambi,news
+90,15,JAMBI,buka,17 Februari 2021,"Besok, 341 Sekolah di Jambi Mulai Belajar Tatap Muka",https://www.viva.co.id/berita/nasional/1348848-besok-341-sekolah-di-jambi-mulai-belajar-tatap-muka,news
+91,15,JAMBI,buka,9 Maret 2021,Pelaksanaan pembelajaran tatap muka di MTsN 2 Kota Jambi,http://jambikota.kemenag.go.id/news/509878/pelaksanaan-pembelajaran-tatap-muka-di-mtsn-2-kota-jambi.html,news
+92,15,JAMBI,buka,9 Maret 2021,Pelaksanaan pembelajaran tatap muka di Madrasah Aliyah Negeri 2 Kota Jambi,http://jambikota.kemenag.go.id/news/509877/pelaksanaan-pembelajaran-tatap-muka-di-madrasah-aliyah-negeri-2-kota-jambi.html,news
+93,15,JAMBI,tutup,3 Mei 2021,"Kasus Naik Tajam, Sekolah di Jambi Kembali Daring",https://www.kompas.id/baca/nusantara/2021/05/02/kasus-naik-tajam-sekolah-di-jambi-kembali-daring,news
+94,15,JAMBI,buka,3 Juni 2021,Semua Sekolah SMA/SMK di Provinsi Jambi Sudah Belajar Tatap Muka Meski Belum Normal Sepenuhnya,https://jambi.tribunnews.com/2021/06/03/semua-sekolah-smasmk-di-provinsi-jambi-sudah-belajar-tatap-muka-meski-belum-normal-sepenuhnya,news
+95,15,JAMBI,tutup,12 Juli 2021,SMA di Kota Jambi Masih Belajar Daring,https://www.beritasatu.com/archive/654793/sma-di-kota-jambi-masih-belajar-daring,news
+96,15,JAMBI,tutup,6 Agustus 2021,"Covid-19 Meningkat Lagi, Kegiatan Belajar Tatap Muka di Kota Jambi Dihentikan",https://www.beritasatu.com/archive/662737/covid19-meningkat-lagi-kegiatan-belajar-tatap-muka-di-kota-jambi-dihentikan,news
+97,15,JAMBI,buka,4 Oktober 2021,Hari Ini Sekolah Tatap Muka di Kota Jambi Dimulai Perhatikan Aturan Prokes,https://editornews.pikiran-rakyat.com/pendidikan/pr-1312729546/hari-ini-sekolah-tatap-muka-di-kota-jambi-dimulai-perhatikan-aturan-prokes,news
+98,15,JAMBI,tutup,18 Februari 2022,"PTM Tingkat SMA-SMK di Kota Jambi Disetop Sementara, Siswa Sekolah Daring",https://news.detik.com/berita/d-5949365/ptm-tingkat-sma-smk-di-kota-jambi-disetop-sementara-siswa-sekolah-daring,news
+99,15,JAMBI,tutup,18 Februari 2022,Edaran Pemprov Jambi: SMA/SMK/SLB Belajar Daring Sampai,https://ampar.id/edaran-pemprov-jambi-sma-smk-slb-belajar-daring-sampai/,news
+100,15,JAMBI,buka,1 Maret 2022,PTM SMA/SMK di Kota Jambi dan Muaro Jambi Kembali Dimulai Besok,https://www.jernih.id/ptm-sma-smk-di-kota-jambi-dan-muaro-jambi-kembali-dimulai-besok,news
+101,15,JAMBI,buka,1 Maret 2022,"Disdik Jambi Sampaikan Kabar Terbaru, Seluruh Siswa Harus Tahu",https://www.jpnn.com/news/disdik-jambi-sampai-kabar-terbaru-seluruh-siswa-harus-tahu,news
+102,15,JAMBI,buka,8 Mei 2022,"Senin, Pelajar di Jambi Mulai Masuk Sekolah",https://rri.co.id/daerah/1447918/senin-pelajar-di-jambi-mulai-masuk-sekolah,news
+103,32,JAWA BARAT,tutup,24 Maret 2020,"Surat Edaran Walikota Bogor Nomor 061/1169-UMUM Tahun 2020
+Perpanjangan Masa Belajar Di Rumah Bagi Peserta Didik Paud/Tk/Ra, Sd/Mi, Smp/Mts, Sma/Smk/Ma...",https://covid19.hukumonline.com/wp-content/uploads/2020/05/surat_edaran_walikota_bogor_nomor_061_1169_umum_tahun_2020.pdf,regulation
+104,32,JAWA BARAT,tutup,25 Maret 2020,"Surat Edaran Walikota Depok Nomor 420/142-HUK/DISDIK Tahun 2020
+Perpanjangan Masa Belajar Di Rumah Bagi Peserta Didik Paud/Tk/Ra, Sd/Mi, Smp/Mts, Sma/Smk/Ma...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_walikota_depok_nomor_420_142_huk_disdik_tahun_2020-2.pdf,regulation
+105,32,JAWA BARAT,tutup,27 Maret 2020,"Surat Dinas Pendidikan Pemerintah Daerah Provinsi Jawa Barat Nomor 443/3718-SET.DISDIK Tahun 2020
+Penyelenggaraan Pendidikan Dalam Rangka Pencegahan Penyebaran Covid-19 Di Provinsi Jawa Barat",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_dinas_pendidikan_pemerintah_daerah_provinsi_jawa_barat_nomor_443_3718_set_disdik_tahun_2020-2.pdf,regulation
+106,32,JAWA BARAT,tutup,27 Maret 2020,"Surat Edaran Bupati Karawang Nomor 800/1795/DISDIKPORA Tahun 2020
+Perpanjangan Kegiatan Belajar, Mengajar Dan Bekerja Dari Rumah Dalam Upaya Kewaspadaan Pencegahan...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_bupati_karawang_nomor_800_1795_disdikpora_tahun_2020-2.pdf,regulation
+107,32,JAWA BARAT,tutup,1 April 2020,"Surat Edaran Dinas Pendidikan Kabupaten Bogor Nomor 421/455-DISDIK Tahun 2020
+Pelaksanaan Kebijakan Pendidikan Dalam Masa Darurat Penyebaran Corona Virus Disease (Covid-19)",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_dinas_pendidikan_kabupaten_bogor_nomor_421_455_disdik_tahun_2020-2.pdf,regulation
+108,32,JAWA BARAT,tutup,1 April 2020,"Surat Edaran Bupati Kuningan Nomor 440/1/06/KESRA Tahun 2020
+Pencegahan Penyebaran Virus Corona (Covid-19) Di Lingkungan Tempat Ibadah Dan Lembaga Pendidikan",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_bupati_kuningan_nomor_440_1_06_kesra_tahun_2020-2.pdf,regulation
+109,32,JAWA BARAT,tutup,7 April 2020,"Surat Edaran Walikota Bogor Nomor 061/1334-UMUM Tahun 2020
+Perpanjangan Masa Belajar Di Rumah Bagi Peserta Didik Paud/Tk/Ra, Sd/Mi, Smp/Mts, Sma/Smk/Ma,...",https://covid19.hukumonline.com/wp-content/uploads/2020/05/surat_edaran_walikota_bogor_nomor_061_1334_umum_tahun_2020.pdf,regulation
+110,32,JAWA BARAT,tutup,8 April 2020,"Surat Edaran Walikota Depok Nomor 420/177-HUK/DISDIK Tahun 2020
+Perpanjangan Masa Belajar Di Rumah Bagi Peserta Didik Paud/Tk/Ra, Sd/Mi, Smp/Mts, Sma/Smk/Ma...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_walikota_depok_nomor_420_177_huk_disdik_tahun_2020-1.pdf,regulation
+111,32,JAWA BARAT,tutup,9 April 2020,"Surat Edaran Dinas Pendidikan Dan Kebudayaan Kabupaten Kuningan Nomor 421/864/UMUM Tahun 2020
+Perpanjangan Masa Belajar Di Rumah Bagi Guru Dan Siswa",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_dinas_pendidikan_dan_kebudayaan_kabupaten_kuningan_nomor_421_864_umum_tahun_2020-1.pdf,regulation
+112,32,JAWA BARAT,tutup,12 April 2020,"Surat Edaran Walikota Bekasi Nomor 421/2566/DISDIK Tahun 2020
+Perpanjangan Belajar Dari Rumah (Home Learning) Ketiga Pada Masa Darurat Corona Virus...",https://covid19.hukumonline.com/wp-content/uploads/2020/05/surat_edaran_walikota_bekasi_nomor_421_2566_disdik_tahun_2020.pdf,regulation
+113,32,JAWA BARAT,tutup,29 Mei 2020,"Surat Edaran Walikota Depok Nomor 420/258-HUK/DISDIK Tahun 2020
+Perpanjangan Masa Belajar Di Rumah Bagi Peserta Didik Paud/Tk/Ra, Sd/Mi, Smp/Mts, Sma/Smk/Ma...",https://covid19.hukumonline.com/wp-content/uploads/2020/06/surat_edaran_walikota_depok_nomor_420_258_huk_disdik_tahun_2020.pdf,regulation
+114,32,JAWA BARAT,buka,30 Juni 2020,"Peraturan Bupati Sumedang Nomor 51 Tahun 2020
+Pedoman Pelaksanaan Adaptasi Kebiasaan Baru Pada Pondok Pesantren Dan Pendidikan Diniyah Dalam...",https://covid19.hukumonline.com/wp-content/uploads/2020/08/peraturan_bupati_sumedang_nomor_51_tahun_2020.pdf,regulation
+115,32,JAWA BARAT,tutup,9 Juli 2020,"Peraturan Wali Kota Depok Nomor 48 Tahun 2020
+Pedoman Pembelajaran Tahun Ajaran 2020/2021 Masa Pandemi Corona Virus Disease 2019 Di...",https://covid19.hukumonline.com/wp-content/uploads/2020/07/peraturan_wali_kota_depok_nomor_48_tahun_2020.pdf,regulation
+116,32,JAWA BARAT,tutup,2 Februari 2022,"Keputusan Ketua Satuan Tugas Penanganan Corona Virus Disease 2019 Kota Bogor Nomor 01/STPC/02/2022 Tahun 2022
+Kebijakan Penghentian Sementara Pembelajaran Pada Masa Pemberlakuan Pembatasan Kegiatan Masyarakat Dalam Rangka...",https://covid19.hukumonline.com/wp-content/uploads/2022/03/keputusan_ketua_satuan_tugas_penanganan_corona_virus_disease_2019_kota_bogor_nomor_01_stpc_02_2022_tahun_2022.pdf,regulation
+117,32,JAWA BARAT,tutup,8 Februari 2022,"Keputusan Ketua Satuan Tugas Penanganan Corona Virus Disease 2019 Kota Bogor Nomor 02/STPC/02/2022 Tahun 2022
+Kebijakan Penghentian Sementara Pembelajaran Pada Masa Pemberlakuan Pembatasan Kegiatan Masyarakat Dalam Rangka...",https://covid19.hukumonline.com/wp-content/uploads/2022/03/keputusan_ketua_satuan_tugas_penanganan_corona_virus_disease_2019_kota_bogor_nomor_02_stpc_02_2022_tahun_2022.pdf,regulation
+118,33,JAWA TENGAH,tutup,15 Maret 2020,"Surat Edaran Gubernur Jawa Tengah Nomor 420/0005956 Tahun 2020
+Pencegahan Penyebaran Corona Virus Disease (Covid-19) Pada Satuan Pendidikan Di Jawa Tengah",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_gubernur_jawa_tengah_nomor_420_0005956_tahun_2020.pdf,regulation
+119,33,JAWA TENGAH,tutup,15 Maret 2020,"Surat Edaran Kepala Dinas Pendidikan, Pemuda Dan Olahraga Kabupaten Temanggung Nomor 440/1838/III/2020 Tahun 2020
+Pencegahan Penyebaran Corona Virus Disease (Covid-19) Pada Satuan Pendidikan Di Kabupaten Temanggung",https://covid19.hukumonline.com/wp-content/uploads/2021/08/surat_edaran_kepala_dinas_pendidikan_pemuda_dan_olahraga_kabupaten_temanggung_nomor_440_1838_iii_2020_tahun_2020-1.pdf,regulation
+120,33,JAWA TENGAH,tutup,15 Maret 2020,"Surat Edaran Dinas Pendidikan Dan Kebudayaan Provinsi Jawa Tengah Nomor 443.2/08991 Tahun 2020
+Pengaturan Pelaksanaan Ujian Nasional/Ujian Sekolah Dan Kegiatan Belajar Mengajar Pada Sma, Smk,...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_dinas_pendidikan_dan_kebudayaan_provinsi_jawa_tengah_nomor_443_2_08991_tahun_2020.pdf,regulation
+121,33,JAWA TENGAH,tutup,26 Maret 2020,"Surat Edaran Dinas Pendidikan, Pemuda Dan Olahraga Kabupaten Temanggung Nomor 420/1937 Tahun 2020
+Layanan Penyelenggaraan Pendidikan Dalam Rangka Pencegahan Penularan Dan Penyebaran Infeksi Corona Virus...",https://covid19.hukumonline.com/wp-content/uploads/2021/08/surat_edaran_dinas_pendidikan_pemuda_dan_olahraga_kabupaten_temanggung_nomor_420_1937_tahun_2020-1.pdf,regulation
+122,33,JAWA TENGAH,buka,10 Juli 2020,"Surat Edaran Kepala Dinas Pendidikan, Pemuda Dan Olahraga Kabupaten Temanggung Nomor 420/3925 Tahun 2020
+Penyelenggaraan Pembelajaran Pada Tahun Ajaran 2020/2021 Di Masa Pandemi Corana Virus Disease...",https://covid19.hukumonline.com/wp-content/uploads/2021/08/surat_edaran_kepala_dinas_pendidikan_pemuda_dan_olahraga_kabupaten_temanggung_nomor_420_3925_tahun_2020-1.pdf,regulation
+123,35,JAWA TIMUR,tutup,15 Maret 2020,"Instruksi Bupati Madiun Nomor 2/INSTRUKSI/2020 Tahun 2020
+Antisipasi Meningkatnya Resiko Penyebaran Corona Virus Disease 2019 (Covid-19) Di Bidang Pendidikan",https://covid19.hukumonline.com/wp-content/uploads/2021/04/instruksi_bupati_madiun_nomor_2_instruksi_2020_tahun_2020.pdf,regulation
+124,35,JAWA TIMUR,tutup,15 Maret 2020,"Instruksi Bupati Madiun Nomor 2/INSTRUKSI/2020 Tahun 2020
+Antisipasi Meningkatnya Resiko Penyebaran Corona Virus Disease 2019 (Covid-19) Di Bidang Pendidikan",https://covid19.hukumonline.com/wp-content/uploads/2021/04/instruksi_bupati_madiun_nomor_2_instruksi_2020_tahun_2020.pdf,regulation
+125,35,JAWA TIMUR,tutup,26 Maret 2020,"Surat Edaran Dinas Pendidikan Kabupaten Gresik Nomor 420/971/437.53/2020 Tahun 2020
+Ujian Nasional, Ujian Sekolah, Kegiatan Belajar Dari Rumah, Kelulusan Peserta Didik, Kenaikan...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_dinas_pendidikan_kabupaten_gresik_nomor_420_971_437_53_2020_tahun_2020.pdf,regulation
+126,35,JAWA TIMUR,tutup,17 April 2020,"Surat Edaran Bupati Madiun Nomor 420/90/402.011/2020 Tahun 2020
+Perpanjangan Pelaksanaan Kegiatan Pembelajaran Di Rumah Di Kabupaten Madiun",https://covid19.hukumonline.com/wp-content/uploads/2021/04/surat_edaran_bupati_madiun_nomor_420_90_402_011_2020_tahun_2020.pdf,regulation
+127,35,JAWA TIMUR,buka,3 Desember 2020,"Peraturan Bupati Gresik Nomor 50 Tahun 2020
+Pedoman Pelaksanaan Pembelajaran Tatap Muka Di Masa Transisi Menuju Tatanan Normal Baru...",https://covid19.hukumonline.com/wp-content/uploads/2021/04/peraturan_bupati_gresik_nomor_50_tahun_2020.pdf,regulation
+128,61,KALIMANTAN BARAT,tutup,26 Maret 2020,Pelaksaan Kebijakan Pendidikan Dalam Masa Darurat Penyebaran Virus Corona (COVID-19),https://covid19.pontianakkota.go.id/storage/dokumen/Makalnarch2020/XPATTTkuLC7sHXbJ1Box.PDF,regulation
+129,63,KALIMANTAN SELATAN,tutup,23 Maret 2020,"Surat Edaran Bupati Hulu Sungai Utara Nomor 360/66/BPBD/2020 Tahun 2020
+Pencegahan Penyebaran/Penularan Covid-19 (Corona Virus Disease) Di Satuan Pendidikan Kabupaten Hulu Sungai...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_bupati_hulu_sungai_utara_nomor_360_66_bpbd_2020_tahun_2020-1.pdf,regulation
+130,62,KALIMANTAN TENGAH,tutup,17 Maret 2020,"Surat Gubernur Kalimantan Tengah Nomor 443.1/23/DISDIK Tahun 2020
+Protokol Status Siaga Darurat Bencana Pandemi Covid-19 Di Lingkungan Pendidikan Provinsi Kalimantan...",https://covid19.hukumonline.com/wp-content/uploads/2020/07/surat_gubernur_kalimantan_tengah_nomor_443_1_23_disdik_tahun_2020.pdf,regulation
+131,64,KALIMANTAN TIMUR,tutup,16 Maret 2020,Sekolah di Penajam Libur Sepekan Antisipasi Corona,https://www.republika.co.id/berita/q79hmq459/sekolah-di-penajam-libur-sepekan-antisipasi-corona,news
+132,64,KALIMANTAN TIMUR,tutup,26 Maret 2020,"Surat Edaran Walikota Samarinda Nomor 188.66/0423/100.01 Tahun 2020
+Himbauan Pendampingan Orang Tua/Wali Terhadap Proses Belajar Putra-Putrinya Di Rumah Dalam Masa...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_walikota_samarinda_nomor_188_66_0423_100_01_tahun_2020.pdf,regulation
+133,64,KALIMANTAN TIMUR,tutup,26 Maret 2020,"Instruksi Walikota Samarinda Nomor 423/0422/100.01 Tahun 2020
+Instruksi Pelaksanaan Kebijakan Pendidikan Dalam Masa Darurat Penyebaran Coronavirus Disease (Covid-19) Di...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/instruksi_walikota_samarinda_nomor_423_0422_100_01_tahun_2020.pdf,regulation
+134,65,KALIMANTAN UTARA,tutup,20 Maret 2020,PAUD-SMP di Nunukan Diliburkan 20-31 Maret 2020 Buat Cegah Corona,https://www.niaga.asia/paud-smp-di-nunukan-diliburkan-20-31-maret-2020-buat-cegah-corona/,news
+135,21,KEP. RIAU,tutup,16 Maret 2020,"Surat Edaran Gubernur Kepulauan Riau Nomor 440/449/DISDIK-SET/2020 Tahun 2020
+Kegiatan Belajar Mengajar Pada Satuan Pendidikan Dalam Rangka Pencegahan Penyebaran Corona Virus...",https://covid19.hukumonline.com/wp-content/uploads/2020/05/surat_edaran_gubernur_kepulauan_riau_nomor_440_449_disdik_set_2020_tahun_2020.pdf,regulation
+136,21,KEP. RIAU,tutup,21 April 2020,"Surat Edaran Dinas Pendidikan Kepulauan Riau Nomor B/420/215.3/DISDIK/2020 Tahun 2020
+Perpanjangan Dan Penetapan Jadwal Kegiatan Belajar Mengajar Di Rumah Pada Satuan Pendidikan...",https://covid19.hukumonline.com/wp-content/uploads/2020/05/surat_edaran_dinas_pendidikan_kepulauan_riau_nomor_b_420_215_3_disdik_2020_tahun_2020.pdf,regulation
+137,18,LAMPUNG,tutup,6 April 2020,"Surat Edaran Wali Kota Bandar Lampung Nomor 420/503/IV.40/2020 Tahun 2020
+Perpanjangan Antisipasi Penyebaran Virus Corona (Covid-19) Di Lingkungan Sekolah Kota Bandar Lampung",https://covid19.hukumonline.com/wp-content/uploads/2021/05/surat_edaran_wali_kota_bandar_lampung_nomor_420_503_iv_40_2020_tahun_2020.pdf,regulation
+138,18,LAMPUNG,tutup,25 Agustus 2020,"Surat Edaran Wali Kota Bandar Lampung Nomor 420/1011/III.01/2020 Tahun 2020
+Perpanjangan Kegiatan Belajar Dari Rumah Pada Masa Corona Virus (Covid-19) Di Kota...",https://covid19.hukumonline.com/wp-content/uploads/2021/06/surat_edaran_wali_kota_bandar_lampung_nomor_420_1011_iii_01_2020_tahun_2020.pdf,regulation
+139,18,LAMPUNG,buka,30 Desember 2020,"Surat Edaran Wali Kota Bandar Lampung Nomor 420/1534/III.01/2020 Tahun 2020
+Proses Kegiatan Pembelajaran Semester Ii Tahun Ajaran 2020/2021 Pada Masa Pandemi Covid-19...",https://covid19.hukumonline.com/wp-content/uploads/2021/06/surat_edaran_wali_kota_bandar_lampung_nomor_420_1534_iii_01_2020_tahun_2020.pdf,regulation
+140,82,MALUKU UTARA,tutup,31 Maret 2020,Libur Sekolah di Kota Ternate Diperpanjang Sampai 12 April,https://poskomalut.com/libur-sekolah-di-kota-ternate-diperpanjang-sampai-12-april/,news
+141,52,NUSA TENGGARA BARAT,tutup,15 Maret 2020,"Surat Edaran Wali Kota Mataram Nomor 422.3/302/DISDIK.A/III/2020 Tahun 2020
+Pencegahan Penyebaran Corona Virus Disease 2019 (Covid-19) Pada Satuan Pendidikan Di Kota...",https://covid19.hukumonline.com/wp-content/uploads/2021/06/surat_edaran_wali_kota_mataram_nomor_422_3_302_disdik_a_iii_2020_tahun_2020.pdf,regulation
+142,52,NUSA TENGGARA BARAT,tutup,16 Maret 2020,"Surat Edaran Bupati Sumbawa Nomor 1886/151/DIKBUD/2020 Tahun 2020
+Pencegahan Penyebaran Corona Virus Disease (Covid-19) Pada Satuan Pendidikan Di Kabupaten Sumbawa",https://covid19.hukumonline.com/wp-content/uploads/2021/05/surat_edaran_bupati_sumbawa_nomor_1886_151_dikbud_2020_tahun_2020.pdf,regulation
+143,52,NUSA TENGGARA BARAT,tutup,16 Maret 2020,"Aceh, Jambi, NTB Liburkan Sekolah Dua Pekan Cegah Corona",https://www.cnnindonesia.com/nasional/20200316092721-20-483715/aceh-jambi-ntb-liburkan-sekolah-dua-pekan-cegah-corona,news
+144,52,NUSA TENGGARA BARAT,tutup,16 Maret 2020,"NTB Darurat Corona, Semua Sekolah Libur Kecuali SMA dan SMK Kelas 12",https://bali.bisnis.com/read/20200316/537/1213701/ntb-darurat-corona-semua-sekolah-libur-kecuali-sma-dan-smk-kelas-12,news
+145,53,NUSA TENGGARA TIMUR,tutup,20 Maret 2020,Dinas Pendidikan Kabupaten Kupang Meliburkan Seluruh Sekolah Sampai 4 April Mendatang,https://infontt.com/2020/dinas-pendidikan-kabupaten-kupang-meliburkan-seluruh-sekolah-sampai-4-april-mendatang/,news
+146,94,PAPUA,tutup,16 Maret 2020,"Akhirnya, Pemkot Jayapura Liburkan Sekolah 14 Hari",https://www.liputan6.com/regional/read/4203459/akhirnya-pemkot-jayapura-liburkan-sekolah-14-hari,news
+147,91,PAPUA BARAT,tutup,19 Maret 2020,"Pemkab Manokwari Liburkan TK, SD, SMP Mulai 19 Maret 2020",https://papuakini.co/2020/03/18/pemkab-manokwari-liburkan-tk-sd-smp-mulai-19-maret-2020/,news
+148,14,RIAU,tutup,15 Juli 2020,"Surat Edaran Wali Kota Dumai Nomor 1253/DISDIKBUD/2020 Tahun 2020
+Larangan Kegiatan Belajar Mengajar Secara Tatap Muka Di Satuan Pendidikan",https://covid19.hukumonline.com/wp-content/uploads/2021/08/surat_edaran_wali_kota_dumai_nomor_1253_disdikbud_2020_tahun_2020-1.pdf,regulation
+149,76,SULAWESI BARAT,tutup,18 Maret 2020,Besok Anak Sekolah di Mamasa Diliburkan,https://www.transtipo.com/kabupaten-mamasa/besok-anak-sekolah-di-mamasa-diliburkan/,news
+150,73,SULAWESI SELATAN,tutup,30 Maret 2020,"Surat Edaran Gubernur Sulawesi Selatan Nomor 443.2/2181/DISDIK Tahun 2020
+Perpanjangan Masa Belajar Di Rumah Pada Satuan Pendidikan Sma/Ma, Smp/Mts, Sd/Mi Sederajat...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_gubernur_sulawesi_selatan_nomor_443_2_2181_disdik_tahun_2020-1.pdf,regulation
+151,73,SULAWESI SELATAN,tutup,30 Maret 2020,"Surat Edaran Bupati Bone Nomor 410/577/III/DISDIK/2020 Tahun 2020
+Pelaksanaan Perpanjangan Sistem Belajar Di Rumah Dalam Rangka Pencegahan Penyebaran Virus Corona...",https://covid19.hukumonline.com/wp-content/uploads/2020/04/surat_edaran_bupati_bone_nomor_410_577_iii_disdik_2020_tahun_2020-2.pdf,regulation
+152,72,SULAWESI TENGAH,tutup,16 Maret 2020,PENCEGAHAN DAN ANTISIPASI PENYEBARAN COVID – 19 DI SULAWESI TENGAH,https://bkd.sultengprov.go.id/index.php/2020/03/17/pencegahan-dan-antisipasi-penyebaran-covid-19-di-sulawesi-tengah/,regulation
+153,74,SULAWESI TENGGARA,tutup,16 Maret 2020,Gubernur Sultra instruksikan libur belajar di sekolah,https://www.antaranews.com/berita/1358494/gubernur-sultra-instruksikan-libur-belajar-di-sekolah,news
+154,71,SULAWESI UTARA,tutup,16 Maret 2020,"Liburkan Semua Sekolah, Gubernur Instruksikan Belajar di Kelas Maya",https://manguninews.com/liburkan-semua-sekolah-gubernur-instruksikan-belajar-di-kelas-maya/,news
+155,71,SULAWESI UTARA,buka,12 Juli 2021,"Pembelajaran Tatap Muka Terbatas di Sulut Mulai 12 Juli 2021, Ini Persyaratannya",https://sulut.inews.id/berita/pembelajaran-tatap-muka-terbatas-di-sulut-mulai-12-juli-2021-ini-persyaratannya,news
+156,71,SULAWESI UTARA,buka,21 September 2021,In Picture: Pembelajaran Tatap Muka Mulai Dilaksanakan di Manado,https://www.republika.co.id/berita/qzrunm283/pembelajaran-tatap-muka-mulai-dilaksanakan-di-manado,news
+157,71,SULAWESI UTARA,buka,10 Januari 2022,Pembelajaran Tatap Muka 100 Persen Mulai Diterapkan Sekolah-sekolah di Kota Manado,https://manado.pikiran-rakyat.com/manadoku/pr-2363450914/pembelajaran-tatap-muka-100-persen-mulai-diterapkan-sekolah-sekolah-di-kota-manado,news
+158,71,SULAWESI UTARA,buka,14 Januari 2022,Bitung PTM 100 persen,https://manado.antaranews.com/berita/174493/bitung-ptm-100-persen,news
+159,71,SULAWESI UTARA,tutup,18 Februari 2022,Pemkab Mitra hentikan kegiatan PTM di sekolah,https://manado.antaranews.com/berita/177381/pemkab-mitra-hentikan-kegiatan-ptm-di-sekolah,news
+160,13,SUMATERA BARAT,tutup,16 Maret 2020,Sekolah Diliburkan Dari Tanggal 16 - 30 Maret 2020,https://bengkaliskab.go.id/view/news/sekolah-diliburkan-dari-tanggal-16-30-maret-2020,news
+161,13,SUMATERA BARAT,buka,4 Oktober 2021,Padang Gelar PTM bagi SD dan SMP Mulai Senin 4 Oktober 2021,https://sumbar.suara.com/read/2021/10/02/131249/padang-gelar-ptm-bagi-sd-dan-smp-mulai-senin-4-oktober-2021,news
+162,16,SUMATERA SELATAN,tutup,17 Maret 2020,Edy Rahmayadi Liburkan Siswa SMA/SMK di Sumut Selama 2 Pekan Lebih,https://sumut.inews.id/berita/edy-rahmayadi-liburkan-siswa-smasmk-di-sumut-selama-2-pekan-lebih,news
+163,16,SUMATERA SELATAN,buka,27 Agustus 2021,Sekolah di Sumsel Mulai PTM Pekan Depan,https://www.merdeka.com/peristiwa/sekolah-di-sumsel-mulai-ptm-pekan-depan.html,news
+164,16,SUMATERA SELATAN,buka,25 Januari 2022,Hampir Seluruh Sekolah di Sumsel Laksanakan PTM,https://rri.co.id/palembang/iptek/1337495/hampir-seluruh-sekolah-di-sumsel-laksanakan-ptm,news
+165,16,SUMATERA SELATAN,tutup,8 Februari 2022,"PTM 10 Sekolah Palembang Disetop Imbas Covid, 6 Kasus Omicron di Sumut",https://www.cnnindonesia.com/nasional/20220207195415-20-756200/ptm-10-sekolah-palembang-disetop-imbas-covid-6-kasus-omicron-di-sumut,news
+166,12,SUMATERA UTARA,tutup,17 Maret 2020,"Surat Edaran Gubernur Sumatera Utara Nomor 440/2666/2020 Tahun 2020
+Peningkatan Kewaspadaan Terhadap Resiko Penularan Infeksi Corona Virus Disease (Covid-19) Di Sumatera...",https://covid19.hukumonline.com/wp-content/uploads/2020/09/surat_edaran_gubernur_sumatera_utara_nomor_440_2666_2020_tahun_2020.pdf,regulation
+167,12,SUMATERA UTARA,buka,23 Agustus 2021,"Tebing Tinggi Mulai Sekolah Tatap Muka, Satgas Covid-19 Awasi Pelaksanannya",https://www.merdeka.com/sumut/tebing-tinggi-mulai-sekolah-tatap-muka-satgas-covid-19-awasi-pelaksanannya.html,news
+168,12,SUMATERA UTARA,buka,30 Agustus 2021,"Instruksi Gubernur Sumatera Utara Nomor 188.54/39/INST/2021 Tahun 2021
+Pelaksanaan Pembelajaran Tatap Muka Terbatas Di Masa Pandemi Corona Virus Disease 2019...",https://covid19.hukumonline.com/wp-content/uploads/2021/12/instruksi_gubernur_sumatera_utara_nomor_188_54_39_inst_2021_tahun_2021.pdf,regulation
+169,12,SUMATERA UTARA,buka,11 Oktober 2021,"Sekolah di Medan Mulai Terapkan Pembelajaran Tatap Muka Terbatas
+",https://www.jawapos.com/jpg-today/11/10/2021/sekolah-di-medan-mulai-terapkan-pembelajaran-tatap-muka-terbatas/,news
+170,12,SUMATERA UTARA,tutup,19 Februari 2022,"Kasus Covid-19 Meningkat, 345 SMA/SM/SLB se-Sumut Ditutup",https://metrodaily.jawapos.com/merdeka-belajar/22/02/2022/kasus-covid-19-meningkat-345-sma-sm-slb-se-sumut-ditutup/,news
